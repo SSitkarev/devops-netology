@@ -1,3 +1,2 @@
 # devops-netology
 
-First changes
